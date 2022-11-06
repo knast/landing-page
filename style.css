@@ -1,0 +1,43 @@
+
+
+header {
+    font-size:24px;
+    
+    height:30%;
+    background-color:#1F2937;
+}
+
+.navbar ul {
+    display:flex;
+}
+
+li {
+    list-style-type:none;
+    margin-right:15px;
+    
+}
+
+.navbar {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+h2 {
+    font-size:48px;
+    font-weight:bold;
+    color:#F9FAF8;
+}
+
+.hero p {
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+.sign-up {
+    background-color:#3882F6;
+    color:white;
+    padding:5px 10px;
+    border-radius:8px;
+    font-size:20px;
+}
