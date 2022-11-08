@@ -139,3 +139,59 @@ img {
     text-align:right;
 }
 
+.container {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.sign-product {
+    background-color:#3882F6;
+    margin-top:50px;
+    margin-bottom:50px;
+    width:40%;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding:15px 40px;
+    border-radius:8px;
+}
+
+.white {
+    color: #F9FAF8;
+}
+
+
+.description {
+    margin-top:0px;
+    color:#E5E7E8;
+
+}
+
+
+
+.text {
+    display:flex;
+    flex-direction:column;
+    align-self:center;
+}
+
+.bold.white {
+    font-weight:bold;
+    font-size:20px;
+}
+
+.sign-up {
+    background-color:#F9FAF8;
+    color:#3882F6;
+    padding: 5px 10px;
+    font-weight:bold;
+    border-radius:8px;
+    
+}
+
+footer {
+    text-align:center;
+    padding:15px 15px;
+
+}
