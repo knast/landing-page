@@ -117,3 +117,25 @@ img {
     color:white;
 }
 
+
+.quote-section {
+    background-color:#E5E7EB;
+    padding:100px 250px;
+}
+
+.quote {
+    font-size:36px;
+    font-weight:light;
+    font-style:italic;
+    
+}
+
+.bold {
+    font-weight:bold;
+
+}
+
+.thor {
+    text-align:right;
+}
+
